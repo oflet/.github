@@ -35,7 +35,7 @@ Atualmente, nosso desenvolvimento ocorre em **ambiente privado (Stealth Mode)** 
 
 ## 🤝 Colaboração e Apoio
 
-Atualmente, a **Oflet** é desenvolvida de forma independente por um único desenvolvedor (**Thiago**). O projeto atingiu um estágio de maturidade onde o apoio da comunidade é fundamental para o próximo passo.
+Atualmente, a **Oflet** é desenvolvida de forma independente por um único desenvolvedor **[Thago dos Santos Gomes](https://www.linkedin.com/in/thi-ago-gomes/)**. O projeto atingiu um estágio de maturidade onde o apoio da comunidade é fundamental para o próximo passo.
 
 ### Por que apoiar este projeto?
 
