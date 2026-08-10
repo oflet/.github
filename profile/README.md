@@ -1,5 +1,7 @@
 # Oflet
 
+<!--
+
 ### Digitalizando o consumo local através de inteligência hiperlocal e geolocalização.
 
 A **Oflet** é uma startup focada em transformar a experiência de descoberta de ofertas de bairro. Substituímos o desperdício dos encartes físicos por uma plataforma digital **map-first**, conectando consumidores a comerciantes locais em tempo real.
@@ -46,7 +48,4 @@ Como desenvolvedor solo, os recursos financeiros são limitados. O financiamento
 - **Escalabilidade:** Possibilidade de dedicação exclusiva para acelerar a entrega do MVP.
 
 Sua doação não é apenas uma ajuda de custo, mas um investimento na digitalização e fortalecimento do comércio local.
-
-<!-- --- -->
-
-<!-- [Link do LinkedIn] • [E-mail de Contato Profissional]  -->
+-->
